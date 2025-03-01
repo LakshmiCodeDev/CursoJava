@@ -1,0 +1,20 @@
+Arreglos:
+estructuras de datos que contienen elementos del mismo tipo (identificar con 1 solo nombre)
+arreglos: mismo tipo de dato puede ser de numeros (todo de numeros)
+
+colecciones:solo de tipo string y el define el tipo lista pero usa un array 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
